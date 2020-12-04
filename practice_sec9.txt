@@ -1,0 +1,3 @@
+Hi from Python!
+Hi from Hamamatsu!
+Nerima
